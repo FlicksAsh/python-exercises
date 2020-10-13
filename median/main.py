@@ -16,3 +16,5 @@ sale_prices = [
 
 
 print(median(sale_prices))
+
+# works for selecting the median of a list with an odd number of elements 
